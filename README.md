@@ -40,5 +40,5 @@ Install the necessary packages using `pip install -r requirements.txt`.
 
 ## Author
 
-- [Your Name]
+- Ganesh Adimalupu
 
